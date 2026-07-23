@@ -1,0 +1,113 @@
+Witness Binary Distribution License
+Copyright (c) 2026 Intelligent Netware / Scotomaville
+All rights reserved except as expressly granted below.
+
+This repository distributes **Witness** Windows installer binaries
+(and related release assets). Application source is **not** licensed
+here; it is maintained separately and remains private unless the
+copyright holders publish it under a different license.
+
+## 1. Definitions
+
+- **Software** means the Witness installer binaries, update packages,
+  and other files published in the Releases of this repository.
+- **You** means the individual downloading or using the Software for
+  personal, non-commercial purposes.
+- **Commercial use** means any use intended for or directed toward
+  commercial advantage or monetary compensation, including (without
+  limitation) resale, sublicensing, paid hosting, SaaS packaging,
+  redistributing as part of a paid product or service, or using the
+  Software primarily to deliver paid services to third parties.
+
+## 2. Grant (non-commercial only)
+
+Subject to this License, you may:
+
+1. **Download** the Software from this repository's Releases;
+2. **Install and run** the Software on machines you own or control
+   for personal, educational, research, family, or other
+   **non-commercial** purposes;
+3. **Make backup copies** solely for your own non-commercial use.
+
+No other rights are granted. All rights not expressly granted are
+reserved by the copyright holders.
+
+## 3. Attribution (required)
+
+If you share, display, write about, demonstrate, or redistribute the
+Software (to the limited extent redistribution is allowed by this
+License), you **must** give clear attribution, including at least:
+
+- The name **Witness** and **Scotomaville** / **Intelligent Netware**;
+- A link to: https://github.com/scotomaville/witness-releases
+  and/or https://intelligentnetware.com/ ;
+- A notice that the Software is provided under this License
+  (non-commercial; attribution required).
+
+Attribution must be reasonable and visible in context (e.g. docs,
+about dialog, demo credits, or accompanying notice). Do not suggest
+the copyright holders endorse you or your use without permission.
+
+## 4. Restrictions
+
+You may **not**, without prior written permission from the copyright
+holders:
+
+1. Use the Software for **commercial use** (see §1);
+2. Sell, rent, lease, sublicense, or charge a fee for the Software
+   or access to it;
+3. Remove or obscure copyright, trademark, or attribution notices;
+4. Misrepresent the origin of the Software or claim you authored it;
+5. Use trademarks **Witness**, **Scotomaville**, or **Intelligent
+   Netware** in a way that causes confusion about ownership or
+   endorsement;
+6. Publish, upload, or redistribute personal vault data, API keys,
+   `.env` files, or other private user content as part of any package
+   derived from the Software.
+
+## 5. Redistribution
+
+You may point others to the official Releases of this repository.
+You may not re-host modified installers as "Witness" without written
+permission. Unmodified redistribution of official Release assets for
+non-commercial, attributed sharing may be allowed only if you:
+
+- Keep files unmodified;
+- Include this License and required attribution;
+- Do not charge for the download or the Software itself.
+
+## 6. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THE
+SOFTWARE.
+
+## 7. Privacy notice
+
+Installers are intended to ship without personal corpus content.
+You are responsible for your own vault, keys, and any data you
+create with the Software.
+
+## 8. Termination
+
+This License terminates automatically if you breach it. Upon
+termination you must cease use of the Software obtained under this
+License, except as required by law.
+
+## 9. Contact / commercial licensing
+
+For commercial use, redistribution agreements, or questions:
+
+- Intelligent Netware — https://intelligentnetware.com/
+- Project context — https://scotomaville.com/
+
+---
+
+Summary (not a substitute for the full text):
+
+- **Personal / non-commercial use:** allowed  
+- **Attribution:** required when you share or present the Software  
+- **Commercial use:** not allowed without written permission  
