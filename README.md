@@ -46,3 +46,20 @@ Binaries are published as **GitHub Release assets** only (not committed as git b
 
 Intelligent Netware · Scotomaville / Witness  
 https://intelligentnetware.com/
+
+## Witness Reader (separate product)
+
+**Read** app — not inside the Witness Put installer.
+
+| Asset | Purpose |
+|--------|---------|
+| `Witness-Reader-for-Windows-2.0.zip` | Local Reader (port **8791**) + embedded Python |
+
+- Release tag: **[reader-v2.0](https://github.com/scotomaville/witness-releases/releases/tag/reader-v2.0)**  
+- Does **not** replace Witness **latest** (`v2.7`).  
+- Requires internet + Grok key; points at **your** local vault CODEX.  
+- Ollama offline brain is **not** in 2.0.
+
+Direct zip:  
+https://github.com/scotomaville/witness-releases/releases/download/reader-v2.0/Witness-Reader-for-Windows-2.0.zip
+
